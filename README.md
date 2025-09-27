@@ -1,2 +1,2 @@
-# Case-brique
-Projet java case brique
+# Jeu de Morpion
+Projet java Morpion
